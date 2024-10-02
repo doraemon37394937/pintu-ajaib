@@ -1,4 +1,0 @@
-
-User-agent: *
-Allow: /
-Sitemap: https://doraemon37394937.github.io/pintu-ajaib/sitemap.xml
